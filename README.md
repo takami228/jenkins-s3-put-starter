@@ -4,8 +4,6 @@ JenkinsとGitLabとMattermostとAWS S3を連携するサンプルプロジェク
 
 PushトリガーでJenkinsジョブを実行し、`release/*` ブランチをpushした場合にのみ成果物をS3にPutします。
 
-![jenkins-awscodebuild-integration](jenkins-codebuild-cicd.png)
-
 # Requirements
 
 * Jenkins
